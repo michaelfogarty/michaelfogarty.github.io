@@ -14,7 +14,7 @@ Throughout my undergradute career, I wrote extensively for the [Washington Unive
 
 ### Academic Papers
 
-Spring 2019, I took a [graduate seminar in social choice theory](https://pages.wustl.edu/calvert/ps-507-social-choice-theory). For my final paper, I [compared the social choice-theoretic properties of plurality and ranked choice voting](https://drive.google.com/file/d/1VcmiNmJy8hk3kiFTD6vazAaniwT_vmG7/view?usp=sharing).
+Spring 2019, I took a [graduate seminar in social choice theory](https://pages.wustl.edu/calvert/ps-507-social-choice-theory). For my final paper, I [compared the social choice-theoretic properties of plurality and ranked choice voting](files/social_choice_theory.pdf).
 
 ### Blog Posts
 
