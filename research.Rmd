@@ -1,4 +1,7 @@
+---
+---
 
+<link rel="stylesheet" href="styles.css" type="text/css">
 
 My research interests include fiscal federalism and public finance, institutional design, and applied microeconomics more generally.
 
@@ -6,4 +9,4 @@ I have worked with [Professor Therese McGuire](https://www.kellogg.northwestern.
 
 Additionally, I have worked 
 
-* Michael Fogarty, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](https://sites.lsa.umich.edu/lowande/wp-content/uploads/sites/581/2018/08/daca.pdf)" (under review)
+* __Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](https://sites.lsa.umich.edu/lowande/wp-content/uploads/sites/581/2018/08/daca.pdf)" (under review)
