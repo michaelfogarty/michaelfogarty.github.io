@@ -1,0 +1,22 @@
+name: "Michael Fogarty"
+output_dir: "."
+navbar:
+  title: "Michael Fogarty"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Writing"
+      href: writing.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/michaelfogarty
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/fogartymichael_
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/michael-fogarty/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

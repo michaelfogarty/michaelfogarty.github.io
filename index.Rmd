@@ -1,0 +1,9 @@
+---
+
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/michael.JPG" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Research Assistant at the [Federal Reserve Bank of Chicago](www.chicagofed.org). I graduated from Washington University in St. Louis with a bachelors degree in Economics and Political Science in 2019.
