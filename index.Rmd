@@ -5,4 +5,4 @@
 
 <img src="images/michael.JPG" style="width:25%; border:3px solid; margin-right: 20px" align="left">
 
-Research Assistant at the [Federal Reserve Bank of Chicago](www.chicagofed.org). I graduated from Washington University in St. Louis with a bachelors degree in Economics and Political Science in 2019.
+Research Assistant at the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/). I graduated from Washington University in St. Louis with a bachelors degree in Economics and Political Science in 2019.
