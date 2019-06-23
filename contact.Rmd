@@ -3,4 +3,4 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Contact info to come.
+You can reach me via email at michael.elliot.fogarty@gmail.com, or through Twitter or LinkedIn (links above right).
