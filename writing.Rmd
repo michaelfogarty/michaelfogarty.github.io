@@ -18,4 +18,4 @@ Spring 2019, I took a [graduate seminar in social choice theory](https://pages.w
 
 ### Blog Posts
 
-I wrote a [blog post](https://michaelfogarty.github.io/debate-lineup/) evaluating the 2020 democratic debate lineup and assessing whether it is unbalanced or lopsided compared to the distribution of possible lineups.
+I wrote a [blog post](https://michaelfogarty.github.io/debate-lineup/) evaluating the first 2020 democratic debate lineup and assessing whether it is unbalanced or lopsided compared to the distribution of possible lineups.

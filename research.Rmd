@@ -5,6 +5,8 @@
 
 My research interests include urban economics, public finance, fiscal federalism, political economy and applied microeconomics more broadly.
 
+I am currently a reserach assistant on the regional team at the Federal Reserve Bank of Chicago. 
+
 I have worked with [Professor Therese McGuire](https://www.kellogg.northwestern.edu/faculty/directory/mcguire_therese.aspx) on several projects related to fiscal federalism in the United State, Canada, Germany, and Spain. Additionally, I have prepared homeworks and lectures for her [state and local public economics course](https://www4.kellogg.northwestern.edu/syllabus/syllabus_files/KPPI-480-0-31_Fall2018.pdf) for Kellogg MBA students.
 
 My [honors thesis](files/Honors_Thesis.pdf) examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics.
@@ -13,14 +15,16 @@ Additionally, I have worked on a project that investigated how expectations abou
 
 ## Published Research
 
-*Author*
-
-* __Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](files/daca.pdf)" (under review)
-
 *Credited as Research Assistant*
+
+* Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. "[Using the eye of the storm to predict the wave of Covid-19 UI claims](https://cepr.org/sites/default/files/news/CovidEconomics9.pdf)". *Covid Economics*, 9, pp. 59-76.
 
 * Teresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. "[Strength in diversity? Fiscal federalism among the fifty US states](https://link.springer.com/article/10.1007/s10797-018-9485-4)" *International Tax and Public Finance*, 25(4), pp.1071-1091.
 
 * Teresa Garcia-Milà and Therese J. McGuire. "[When Theory Meets Practice: Can We Implement the Optimal Fiscal
 Federal Structure?](http://www.crei.cat/wp-content/uploads/2019/03/TMP.pdf)" *Work in progress*.
+
+## Working Papers
+
+* __Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](files/daca.pdf)" (under review)
 
