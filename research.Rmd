@@ -15,6 +15,10 @@ Additionally, I have worked on a project that investigated how expectations abou
 
 ## Published Research
 
+Daniel Aaronson, Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders.](https://www.chicagofed.org/publications/chicago-fed-letter/2020/436)" *Chicago Fed Letter*, No. 436, 2020.
+
+Scott A. Brave, Ross Cole, and **Michael Fogarty**. "[What Can Revisions to the NFCI Tell Us About Stock Market Volatility?](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/nfci-revisions)" *Chicago Fed Insights*
+
 *Credited as Research Assistant*
 
 * Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. "[Using the eye of the storm to predict the wave of Covid-19 UI claims](https://cepr.org/sites/default/files/news/CovidEconomics9.pdf)". *Covid Economics*, 9, pp. 59-76.
