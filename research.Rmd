@@ -19,13 +19,13 @@ Daniel Aaronson, Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[T
 
 Scott A. Brave, Ross Cole, and **Michael Fogarty**. "[What Can Revisions to the NFCI Tell Us About Stock Market Volatility?](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/nfci-revisions)" *Chicago Fed Insights*
 
-*Credited as Research Assistant*
+#### Credited as Research Assistant
 
-* Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. "[Using the eye of the storm to predict the wave of Covid-19 UI claims](https://cepr.org/sites/default/files/news/CovidEconomics9.pdf)". *Covid Economics*, 9, pp. 59-76.
+Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. "[Using the eye of the storm to predict the wave of Covid-19 UI claims](https://cepr.org/sites/default/files/news/CovidEconomics9.pdf)". *Covid Economics*, 9, pp. 59-76.
 
-* Teresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. "[Strength in diversity? Fiscal federalism among the fifty US states](https://link.springer.com/article/10.1007/s10797-018-9485-4)" *International Tax and Public Finance*, 25(4), pp.1071-1091.
+Teresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. "[Strength in diversity? Fiscal federalism among the fifty US states](https://link.springer.com/article/10.1007/s10797-018-9485-4)" *International Tax and Public Finance*, 25(4), pp.1071-1091.
 
-* Teresa Garcia-Milà and Therese J. McGuire. "[When Theory Meets Practice: Can We Implement the Optimal Fiscal
+Teresa Garcia-Milà and Therese J. McGuire. "[When Theory Meets Practice: Can We Implement the Optimal Fiscal
 Federal Structure?](http://www.crei.cat/wp-content/uploads/2019/03/TMP.pdf)" *Work in progress*.
 
 ## Working Papers
