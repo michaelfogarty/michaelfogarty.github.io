@@ -1,5 +1,5 @@
 ---
-Title: Michael Fogarty
+title: Michael Fogarty
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
