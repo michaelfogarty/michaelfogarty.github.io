@@ -2,6 +2,12 @@
 title: Writing
 ---
 
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ### Washington University Political Review

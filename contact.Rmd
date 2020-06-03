@@ -2,6 +2,12 @@
 title: Contact
 ---
 
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 You can reach me via email at michael.elliot.fogarty@gmail.com, or through Twitter or LinkedIn (links above right).
