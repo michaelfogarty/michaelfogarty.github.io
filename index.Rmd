@@ -12,4 +12,4 @@ title: Michael Fogarty
 
 <img src="images/michael.JPG" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-I am currently a Research Assistant on the regional team at the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/). I graduated from Washington University in St. Louis with a bachelors degree in Economics and Political Science in 2019.
+I am currently a Research Assistant on the regional team at the [Federal Reserve Bank of Chicago](https://https://www.chicagofed.org/people/f/fogarty-michael/). I graduated from Washington University in St. Louis with a bachelors degree in Economics and Political Science in 2019.

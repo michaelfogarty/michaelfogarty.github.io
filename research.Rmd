@@ -22,6 +22,8 @@ Additionally, I have worked on a project that investigated how expectations abou
 
 ## Published Research
 
+Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[Looking Down the Road with ALEX: Forecasting U.S. GDP](https://www.chicagofed.org/publications/chicago-fed-letter/2020/447)". *Chicago Fed Letter*, No. 447, 2020.
+
 Daniel Aaronson, Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders.](https://www.chicagofed.org/publications/chicago-fed-letter/2020/436)" *Chicago Fed Letter*, No. 436, 2020.
 
 Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[A Closer Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/closer-look-google-trends-unemployment)" *Chicago Fed Insights*
@@ -31,16 +33,23 @@ Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[Another Look at th
 
 Scott A. Brave, Ross Cole, and **Michael Fogarty**. "[What Can Revisions to the NFCI Tell Us About Stock Market Volatility?](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/nfci-revisions)" *Chicago Fed Insights*
 
+## Working Papers
+
+Daniel Aaronson, Scott A. Brave, R. Andrew Butters, **Michael Fogarty**, Daniel W. Sacks, and Boyoung Seo (2020). ``Forecasting the Realtime Demand for Unemployment Insurance With Google Trends''. *Under Review*.
+
+Daniel Aaronson, Scott A. Brave, **Michael Fogarty**, Ezra Karger, and Spencer Krane (2020). ``Tracking U.S. Consumers during the Covid-19 Pandemic with a New Weekly Retail Sales Index.'' *Federal Reserve Bank of Chicago Working Paper*.
+
+Scott A. Brave, R. Andrew Butters, and **Michael Fogarty** (2020). ``The perils of working with Big Data and a SMALL framework you can use to avoid them'' *Federal Reserve Bank of Chicago Working Paper*.
+
+__Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](files/daca.pdf)"
+
 #### Credited as Research Assistant
 
 Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. "[Using the eye of the storm to predict the wave of Covid-19 UI claims](https://cepr.org/sites/default/files/news/CovidEconomics9.pdf)". *Covid Economics*, 9, pp. 59-76.
+
+R. Jason Faberman and Daniel Hartley. "[The Relationship between Race, Type of Work, and Covid-19 Infection Rates](https://www.chicagofed.org/publications/working-papers/2020/2020-18)". *Chicago Fed Working Paper*, 2020.
 
 Teresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. "[Strength in diversity? Fiscal federalism among the fifty US states](https://link.springer.com/article/10.1007/s10797-018-9485-4)" *International Tax and Public Finance*, 25(4), pp.1071-1091.
 
 Teresa Garcia-Milà and Therese J. McGuire. "[When Theory Meets Practice: Can We Implement the Optimal Fiscal
 Federal Structure?](http://www.crei.cat/wp-content/uploads/2019/03/TMP.pdf)" *Work in progress*.
-
-## Working Papers
-
-* __Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](files/daca.pdf)" (under review)
-
