@@ -35,9 +35,9 @@ Scott A. Brave, Ross Cole, and **Michael Fogarty**. "[What Can Revisions to the 
 
 ## Working Papers
 
-Daniel Aaronson, Scott A. Brave, R. Andrew Butters, **Michael Fogarty**, Daniel W. Sacks, and Boyoung Seo (2020). ``Forecasting the Realtime Demand for Unemployment Insurance With Google Trends''. *R&R, International Journal of Forecasting*.
+Scott A. Brave, **Michael Fogarty**, Daniel Aaronson, Ezra Karger, and Spencer Krane (2021). ``Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade.'' *Federal Reserve Bank of Chicago Working Paper*.
 
-Daniel Aaronson, Scott A. Brave, **Michael Fogarty**, Ezra Karger, and Spencer Krane (2020). ``Tracking U.S. Consumers during the Covid-19 Pandemic with a New Weekly Retail Sales Index.'' *Federal Reserve Bank of Chicago Working Paper*.
+Daniel Aaronson, Scott A. Brave, R. Andrew Butters, **Michael Fogarty**, Daniel W. Sacks, and Boyoung Seo (2020). ``Forecasting the Realtime Demand for Unemployment Insurance With Google Trends''. *R&R, International Journal of Forecasting*.
 
 Scott A. Brave, R. Andrew Butters, and **Michael Fogarty** (2020). ``The perils of working with Big Data and a SMALL framework you can use to avoid them'' *Federal Reserve Bank of Chicago Working Paper*.
 
