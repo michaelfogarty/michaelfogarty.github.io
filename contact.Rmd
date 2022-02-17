@@ -10,4 +10,4 @@ title: Contact
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-You can reach me via email at michael.elliot.fogarty@gmail.com, or through Twitter or LinkedIn (links above right).
+You can reach me via email at michael.fogarty@wisc.edu, or through Twitter or LinkedIn (links above right).

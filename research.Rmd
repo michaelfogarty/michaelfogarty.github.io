@@ -12,15 +12,17 @@ title: Research
 
 My research interests include urban economics, public finance, fiscal federalism, political economy and applied microeconomics more broadly.
 
-I am currently a reserach assistant on the regional team at the Federal Reserve Bank of Chicago. 
+I was previously a reserach assistant on the regional team at the Federal Reserve Bank of Chicago. 
 
 I have worked with [Professor Therese McGuire](https://www.kellogg.northwestern.edu/faculty/directory/mcguire_therese.aspx) on several projects related to fiscal federalism in the United State, Canada, Germany, and Spain. Additionally, I have prepared homeworks and lectures for her [state and local public economics course](https://www4.kellogg.northwestern.edu/syllabus/syllabus_files/KPPI-480-0-31_Fall2018.pdf) for Kellogg MBA students.
 
-My [honors thesis](files/Honors_Thesis.pdf) examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics.
-
-Additionally, I have worked on a project that investigated how expectations about the future policy environment impacted Deferred Action for Childhood Arrivals (DACA) program participation.
+My undergraduate [honors thesis](files/Honors_Thesis.pdf) examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics.
 
 ## Published Research
+
+Daniel Aaronson, Scott A. Brave, R. Andrew Butters, **Michael Fogarty**, Daniel W. Sacks, and Boyoung Seo (2022). ``[Forecasting unemployment insurance claims in realtime with Google Trends](https://www.sciencedirect.com/science/article/abs/pii/S0169207021000649)''. *International Journal of Forecasting*.
+
+Scott A. Brave, R. Andrew Butters, and **Michael Fogarty** (2021). ``[The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them"](https://www.sciencedirect.com/science/article/abs/pii/S0007681321001178?via%3Dihub)'' *Forthcoming, Business Horizons*.
 
 Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[Looking Down the Road with ALEX: Forecasting U.S. GDP](https://www.chicagofed.org/publications/chicago-fed-letter/2020/447)". *Chicago Fed Letter*, No. 447, 2020.
 
@@ -36,10 +38,6 @@ Scott A. Brave, Ross Cole, and **Michael Fogarty**. "[What Can Revisions to the 
 ## Working Papers
 
 Scott A. Brave, **Michael Fogarty**, Daniel Aaronson, Ezra Karger, and Spencer Krane (2021). ``[Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade](https://www.chicagofed.org/publications/working-papers/2021/2021-05).'' *Federal Reserve Bank of Chicago Working Paper*.
-
-Daniel Aaronson, Scott A. Brave, R. Andrew Butters, **Michael Fogarty**, Daniel W. Sacks, and Boyoung Seo (2020). ``Forecasting the Realtime Demand for Unemployment Insurance With Google Trends''. *R&R, International Journal of Forecasting*.
-
-Scott A. Brave, R. Andrew Butters, and **Michael Fogarty** (2020). ``[The perils of working with Big Data and a SMALL framework you can use to avoid them](https://www.chicagofed.org/publications/working-papers/2020/2020-35)'' *Federal Reserve Bank of Chicago Working Paper*.
 
 __Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](files/daca.pdf)"
 
