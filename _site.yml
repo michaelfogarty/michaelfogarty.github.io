@@ -7,6 +7,8 @@ navbar:
       href: research.html
     - text: "Writing"
       href: writing.html
+    - text: "Software"
+      href: software.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
