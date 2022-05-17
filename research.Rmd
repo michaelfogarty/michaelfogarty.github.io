@@ -18,30 +18,29 @@ I have worked with [Professor Therese McGuire](https://www.kellogg.northwestern.
 
 My undergraduate [honors thesis](files/Honors_Thesis.pdf) examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics.
 
-## Published Research
-
-Daniel Aaronson, Scott A. Brave, R. Andrew Butters, **Michael Fogarty**, Daniel W. Sacks, and Boyoung Seo (2022). ``[Forecasting unemployment insurance claims in realtime with Google Trends](https://www.sciencedirect.com/science/article/abs/pii/S0169207021000649)''. *International Journal of Forecasting*.
-
-Scott A. Brave, R. Andrew Butters, and **Michael Fogarty** (2021). ``[The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them"](https://www.sciencedirect.com/science/article/abs/pii/S0007681321001178?via%3Dihub)'' *Forthcoming, Business Horizons*.
-
-Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[Looking Down the Road with ALEX: Forecasting U.S. GDP](https://www.chicagofed.org/publications/chicago-fed-letter/2020/447)". *Chicago Fed Letter*, No. 447, 2020.
-
-Daniel Aaronson, Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders.](https://www.chicagofed.org/publications/chicago-fed-letter/2020/436)" *Chicago Fed Letter*, No. 436, 2020.
-
-Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[A Closer Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/closer-look-google-trends-unemployment)" *Chicago Fed Insights*
-
-Scott A. Brave, R. Andrew Butters, and **Michael Fogarty**. "[Another Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/another-look-google-trends-unemployment)" *Chicago Fed Insights*
-
-
-Scott A. Brave, Ross Cole, and **Michael Fogarty**. "[What Can Revisions to the NFCI Tell Us About Stock Market Volatility?](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/nfci-revisions)" *Chicago Fed Insights*
-
 ## Working Papers
 
-Scott A. Brave, **Michael Fogarty**, Daniel Aaronson, Ezra Karger, and Spencer Krane (2021). ``[Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade](https://www.chicagofed.org/publications/working-papers/2021/2021-05).'' *Federal Reserve Bank of Chicago Working Paper*.
+``Benchmarking Big Data with Mixed-Frequency Multivariate Time Series Models.'' with Scott A. Brave, R. Andrew Butters, Ezra Karger, and Ross Cole.
 
-__Michael Fogarty__, Kenneth Lowande, and August Mense. "[Politics and Policy Take-Up: Evidence from DACA](files/daca.pdf)"
+ ``[Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade](https://www.chicagofed.org/publications/working-papers/2021/2021-05).'' With Scott A. Brave, Daniel Aaronson, Ezra Karger, and Spencer Krane. *Federal Reserve Bank of Chicago Working Paper*.
 
-#### Credited as Research Assistant
+## Published Research
+
+``[Forecasting unemployment insurance claims in realtime with Google Trends](https://www.sciencedirect.com/science/article/abs/pii/S0169207021000649).'' With Daniel Aaronson, Scott A. Brave, R. Andrew Butters,  Daniel W. Sacks, and Boyoung Seo.  *International Journal of Forecasting*.
+
+``[The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them](https://www.sciencedirect.com/science/article/abs/pii/S0007681321001178?via%3Dihub).'' With Scott A. Brave and R. Andrew Butters. *Business Horizons*.
+
+``[Looking Down the Road with ALEX: Forecasting U.S. GDP](https://www.chicagofed.org/publications/chicago-fed-letter/2020/447)''. With Scott A. Brave and R. Andrew Butters. *Chicago Fed Letter*.
+
+``[The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders](https://www.chicagofed.org/publications/chicago-fed-letter/2020/436).'' With Daniel Aaronson, Scott A. Brave and R. Andrew Butters. *Chicago Fed Letter*.
+
+``[A Closer Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/closer-look-google-trends-unemployment).'' With Scott A. Brave and R. Andrew Butters. *Chicago Fed Insights*
+
+``[Another Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/another-look-google-trends-unemployment).'' With Scott A. Brave and R. Andrew Butters. *Chicago Fed Insights*
+
+``[What Can Revisions to the NFCI Tell Us About Stock Market Volatility](https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2020/nfci-revisions)?'' With Scott A. Brave and Ross Cole. *Chicago Fed Insights*
+
+## Credited as Research Assistant
 
 Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. "[Using the eye of the storm to predict the wave of Covid-19 UI claims](https://cepr.org/sites/default/files/news/CovidEconomics9.pdf)". *Covid Economics*, 9, pp. 59-76.
 
