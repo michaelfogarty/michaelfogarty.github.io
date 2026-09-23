@@ -15,7 +15,14 @@ We study how information about climate risk changes household beliefs, housing d
 
 ## Working Papers
 
-"Home Financing Responses to Wildfire Risk Information and Insurance Availability." With [Sarah Bass](https://www.sarahjbass.com/).
+"[Home Financing Responses to Wildfire Risk Information and Insurance Availability](https://drive.google.com/file/d/1kr-ZwGzv8DDEttSrX5Q9DGwuM6WxMA3D/view?usp=sharing)." With [Sarah Bass](https://www.sarahjbass.com/).
+
+<details>
+<summary>Abstract</summary>
+
+Wildfire risk has become a key force shaping California's housing market. We study home buyer responses to a 2021 reform that requires home sellers in California to disclose parcel-level wildfire risk and potential homeowners insurance constraints in designated fire-hazard zones. We show that following implementation of the risk disclosures, the share of all-cash purchases in fire hazard zones increased by 14 percentage points relative to mortgage-financed purchases. Concurrent with the rise in cash purchases, owner-occupancy fell by 13 percentage points, suggesting a reallocation of high-risk homes from primary residences toward second homes and vacation properties. The financing shifts are largest in state-managed wildfire areas, in older homes subject to tighter underwriting, and in ZIP codes with greater reliance on California's homeowners insurer of last resort. While mortgage lenders require insurance, all-cash buyers may delay purchasing insurance, underinsure, or forgo insurance altogether. Thus, the shift from mortgage-financed to all-cash transactions suggests a reallocation of climate risk away from insurers and towards individual households.
+
+</details>
 
 "Evaluating the Effects of Place-Based Policy: Evidence from Opportunity Zones and the Low Income Housing Tax Credit."
 
