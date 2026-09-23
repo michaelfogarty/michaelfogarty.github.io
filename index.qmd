@@ -4,6 +4,9 @@ about:
   template: trestles
   image: images/wisc_headshot.jpeg
   links:
+    - icon: file-earmark-text
+      text: CV
+      href: files/Fogarty_CV.pdf
     - icon: envelope
       text: Email
       href: mailto:michael.fogarty@wisc.edu
@@ -15,4 +18,24 @@ about:
       href: https://github.com/michaelfogarty
 ---
 
-I am currently a PhD student in economics at the University of Wisconsin-Madison. Previously, I was a research assistant at the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/people/f/fogarty-michael/). I graduated from Washington University in St. Louis with a bachelor's degree in Economics and Political Science in 2019.
+I am a PhD candidate in economics at the University of Wisconsin–Madison, and I am on the 2026–2027 academic job market. My research interests are housing economics, urban economics, public economics, and risk and insurance.
+
+Before graduate school, I was a research assistant in the Regional Analysis Group at the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/people/f/fogarty-michael/). I received my B.A. in Economics and Political Science from Washington University in St. Louis in 2019.
+
+## Job Market Paper
+
+**Sorting Over Wildfire Risk Information** (with [Sarah Bass](https://www.sarahjbass.com/))
+
+## References
+
+**Jesse Gregory** (Chair)\
+University of Wisconsin–Madison\
+[jmgregory@ssc.wisc.edu](mailto:jmgregory@ssc.wisc.edu)
+
+**Jeff Smith**\
+University of Wisconsin–Madison\
+[econjeff@ssc.wisc.edu](mailto:econjeff@ssc.wisc.edu)
+
+**Martin O'Connell**\
+University of Wisconsin–Madison\
+[moconnell9@wisc.edu](mailto:moconnell9@wisc.edu)

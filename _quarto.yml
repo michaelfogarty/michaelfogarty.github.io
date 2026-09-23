@@ -12,6 +12,10 @@ website:
     left:
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/Fogarty_CV.pdf
+        text: CV
       - href: writing.qmd
         text: Writing
       - href: software.qmd

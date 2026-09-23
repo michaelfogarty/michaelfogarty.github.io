@@ -2,25 +2,31 @@
 title: Research
 ---
 
-My research interests include urban economics, public finance, fiscal federalism, political economy and applied microeconomics more broadly.
+## Job Market Paper
 
-I was previously a research assistant on the regional team at the Federal Reserve Bank of Chicago.
-
-I have worked with [Professor Therese McGuire](https://www.kellogg.northwestern.edu/faculty/directory/mcguire_therese.aspx) on several projects related to fiscal federalism in the United States, Canada, Germany, and Spain. Additionally, I have prepared homeworks and lectures for her [state and local public economics course](https://www4.kellogg.northwestern.edu/syllabus/syllabus_files/KPPI-480-0-31_Fall2018.pdf) for Kellogg MBA students.
-
-My undergraduate [honors thesis](files/Honors_Thesis.pdf) examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics.
+"Sorting Over Wildfire Risk Information." With [Sarah Bass](https://www.sarahjbass.com/).
 
 ## Working Papers
+
+"Home Financing Responses to Wildfire Risk Information and Insurance Availability." With [Sarah Bass](https://www.sarahjbass.com/).
+
+"Evaluating the Effects of Place-Based Policy: Evidence from Opportunity Zones and the Low Income Housing Tax Credit."
 
 "Benchmarking Big Data with Mixed-Frequency Multivariate Time Series Models." With Scott A. Brave, R. Andrew Butters, Ezra Karger, and Ross Cole.
 
 "[Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade](https://www.chicagofed.org/publications/working-papers/2021/2021-05)." With Scott A. Brave, Daniel Aaronson, Ezra Karger, and Spencer Krane. *Federal Reserve Bank of Chicago Working Paper*.
 
-## Published Research
+## Works in Progress
+
+"Housing Vouchers and Homelessness."
+
+## Publications
 
 "[Forecasting unemployment insurance claims in realtime with Google Trends](https://www.sciencedirect.com/science/article/abs/pii/S0169207021000649)." With Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. *International Journal of Forecasting*.
 
 "[The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them](https://www.sciencedirect.com/science/article/abs/pii/S0007681321001178)." With Scott A. Brave and R. Andrew Butters. *Business Horizons*.
+
+## Other Writing
 
 "[Looking Down the Road with ALEX: Forecasting U.S. GDP](https://www.chicagofed.org/publications/chicago-fed-letter/2020/447)." With Scott A. Brave and R. Andrew Butters. *Chicago Fed Letter*.
 
@@ -41,3 +47,5 @@ R. Jason Faberman and Daniel Hartley. "[The Relationship between Race, Type of W
 Teresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. "[Strength in diversity? Fiscal federalism among the fifty US states](https://link.springer.com/article/10.1007/s10797-018-9485-4)." *International Tax and Public Finance*, 25(4), pp. 1071-1091.
 
 Teresa Garcia-Milà and Therese J. McGuire. "[When Theory Meets Practice: Can We Implement the Optimal Fiscal Federal Structure?](http://www.crei.cat/wp-content/uploads/2019/03/TMP.pdf)" *Work in progress*.
+
+My undergraduate [honors thesis](files/Honors_Thesis.pdf) examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. It won the Adam Smith Prize for Excellence in Economics.

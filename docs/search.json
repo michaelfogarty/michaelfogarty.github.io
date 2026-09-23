@@ -11,42 +11,98 @@
     "href": "index.html",
     "title": "Michael Fogarty",
     "section": "",
-    "text": "I am currently a PhD student in economics at the University of Wisconsin-Madison. Previously, I was a research assistant at the Federal Reserve Bank of Chicago. I graduated from Washington University in St. Louis with a bachelor’s degree in Economics and Political Science in 2019."
+    "text": "I am a PhD candidate in economics at the University of Wisconsin–Madison, and I am on the 2026–2027 academic job market. My research interests are housing economics, urban economics, public economics, and risk and insurance.\nBefore graduate school, I was a research assistant in the Regional Analysis Group at the Federal Reserve Bank of Chicago. I received my B.A. in Economics and Political Science from Washington University in St. Louis in 2019."
+  },
+  {
+    "objectID": "index.html#job-market-paper",
+    "href": "index.html#job-market-paper",
+    "title": "Michael Fogarty",
+    "section": "Job Market Paper",
+    "text": "Job Market Paper\nSorting Over Wildfire Risk Information (with Sarah Bass)"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Michael Fogarty",
+    "section": "References",
+    "text": "References\nJesse Gregory (Chair)\nUniversity of Wisconsin–Madison\njmgregory@ssc.wisc.edu\nJeff Smith\nUniversity of Wisconsin–Madison\neconjeff@ssc.wisc.edu\nMartin O’Connell\nUniversity of Wisconsin–Madison\nmoconnell9@wisc.edu"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research interests include urban economics, public finance, fiscal federalism, political economy and applied microeconomics more broadly.\nI was previously a research assistant on the regional team at the Federal Reserve Bank of Chicago.\nI have worked with Professor Therese McGuire on several projects related to fiscal federalism in the United States, Canada, Germany, and Spain. Additionally, I have prepared homeworks and lectures for her state and local public economics course for Kellogg MBA students.\nMy undergraduate honors thesis examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics."
+    "text": "“Sorting Over Wildfire Risk Information.” With Sarah Bass."
+  },
+  {
+    "objectID": "research.html#job-market-paper",
+    "href": "research.html#job-market-paper",
+    "title": "Research",
+    "section": "",
+    "text": "“Sorting Over Wildfire Risk Information.” With Sarah Bass."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n“Benchmarking Big Data with Mixed-Frequency Multivariate Time Series Models.” With Scott A. Brave, R. Andrew Butters, Ezra Karger, and Ross Cole.\n“Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade.” With Scott A. Brave, Daniel Aaronson, Ezra Karger, and Spencer Krane. Federal Reserve Bank of Chicago Working Paper."
+    "text": "Working Papers\n“Home Financing Responses to Wildfire Risk Information and Insurance Availability.” With Sarah Bass.\n“Evaluating the Effects of Place-Based Policy: Evidence from Opportunity Zones and the Low Income Housing Tax Credit.”\n“Benchmarking Big Data with Mixed-Frequency Multivariate Time Series Models.” With Scott A. Brave, R. Andrew Butters, Ezra Karger, and Ross Cole.\n“Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade.” With Scott A. Brave, Daniel Aaronson, Ezra Karger, and Spencer Krane. Federal Reserve Bank of Chicago Working Paper."
   },
   {
-    "objectID": "research.html#published-research",
-    "href": "research.html#published-research",
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
     "title": "Research",
-    "section": "Published Research",
-    "text": "Published Research\n“Forecasting unemployment insurance claims in realtime with Google Trends.” With Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. International Journal of Forecasting.\n“The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them.” With Scott A. Brave and R. Andrew Butters. Business Horizons.\n“Looking Down the Road with ALEX: Forecasting U.S. GDP.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Letter.\n“The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders.” With Daniel Aaronson, Scott A. Brave and R. Andrew Butters. Chicago Fed Letter.\n“A Closer Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Insights.\n“Another Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Insights.\n“What Can Revisions to the NFCI Tell Us About Stock Market Volatility?” With Scott A. Brave and Ross Cole. Chicago Fed Insights."
+    "section": "Works in Progress",
+    "text": "Works in Progress\n“Housing Vouchers and Homelessness.”"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n“Forecasting unemployment insurance claims in realtime with Google Trends.” With Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. International Journal of Forecasting.\n“The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them.” With Scott A. Brave and R. Andrew Butters. Business Horizons."
+  },
+  {
+    "objectID": "research.html#other-writing",
+    "href": "research.html#other-writing",
+    "title": "Research",
+    "section": "Other Writing",
+    "text": "Other Writing\n“Looking Down the Road with ALEX: Forecasting U.S. GDP.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Letter.\n“The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders.” With Daniel Aaronson, Scott A. Brave and R. Andrew Butters. Chicago Fed Letter.\n“A Closer Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Insights.\n“Another Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Insights.\n“What Can Revisions to the NFCI Tell Us About Stock Market Volatility?” With Scott A. Brave and Ross Cole. Chicago Fed Insights."
   },
   {
     "objectID": "research.html#credited-as-research-assistant",
     "href": "research.html#credited-as-research-assistant",
     "title": "Research",
     "section": "Credited as Research Assistant",
-    "text": "Credited as Research Assistant\nDaniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. “Using the eye of the storm to predict the wave of Covid-19 UI claims.” Covid Economics, 9, pp. 59-76.\nR. Jason Faberman and Daniel Hartley. “The Relationship between Race, Type of Work, and Covid-19 Infection Rates.” Chicago Fed Working Paper, 2020.\nTeresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. “Strength in diversity? Fiscal federalism among the fifty US states.” International Tax and Public Finance, 25(4), pp. 1071-1091.\nTeresa Garcia-Milà and Therese J. McGuire. “When Theory Meets Practice: Can We Implement the Optimal Fiscal Federal Structure?” Work in progress."
+    "text": "Credited as Research Assistant\nDaniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. “Using the eye of the storm to predict the wave of Covid-19 UI claims.” Covid Economics, 9, pp. 59-76.\nR. Jason Faberman and Daniel Hartley. “The Relationship between Race, Type of Work, and Covid-19 Infection Rates.” Chicago Fed Working Paper, 2020.\nTeresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. “Strength in diversity? Fiscal federalism among the fifty US states.” International Tax and Public Finance, 25(4), pp. 1071-1091.\nTeresa Garcia-Milà and Therese J. McGuire. “When Theory Meets Practice: Can We Implement the Optimal Fiscal Federal Structure?” Work in progress.\nMy undergraduate honors thesis examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. It won the Adam Smith Prize for Excellence in Economics."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Course\nTerm\nStudent rating\n\n\n\n\nIntermediate Microeconomics\nFall 2022\n4.57 / 5\n\n\nIntermediate Microeconomics\nSpring 2023\n4.72 / 5\n\n\nIntermediate Microeconomics\nFall 2024\n4.80 / 5\n\n\nAnalytical Public Finance\nSpring 2025\n4.45 / 5"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-university-of-wisconsinmadison",
+    "href": "teaching.html#teaching-assistant-university-of-wisconsinmadison",
+    "title": "Teaching",
+    "section": "",
+    "text": "Course\nTerm\nStudent rating\n\n\n\n\nIntermediate Microeconomics\nFall 2022\n4.57 / 5\n\n\nIntermediate Microeconomics\nSpring 2023\n4.72 / 5\n\n\nIntermediate Microeconomics\nFall 2024\n4.80 / 5\n\n\nAnalytical Public Finance\nSpring 2025\n4.45 / 5"
+  },
+  {
+    "objectID": "teaching.html#awards",
+    "href": "teaching.html#awards",
+    "title": "Teaching",
+    "section": "Awards",
+    "text": "Awards\nJuli Plant Grainger Teaching Excellence Scholarship, Fall 2024"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "You can reach me via email at michael.fogarty@wisc.edu."
+    "text": "Email: michael.fogarty@wisc.edu\nOffice: 8418A Social Sciences\nDepartment of Economics\nUniversity of Wisconsin–Madison\n1180 Observatory Drive\nMadison, WI 53706\nDepartment profile"
   },
   {
     "objectID": "software.html",
