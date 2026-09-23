@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+    - .nojekyll
+
+website:
+  title: "Michael Fogarty"
+  site-url: https://michaelfogarty.github.io
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: writing.qmd
+        text: Writing
+      - href: software.qmd
+        text: Software
+    right:
+      - icon: envelope
+        href: contact.qmd
+        aria-label: Contact
+      - icon: linkedin
+        href: https://www.linkedin.com/in/michael-fogarty/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/michaelfogarty
+        aria-label: GitHub
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false

@@ -1,0 +1,18 @@
+---
+title: Michael Fogarty
+about:
+  template: trestles
+  image: images/wisc_headshot.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:michael.fogarty@wisc.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michael-fogarty/
+    - icon: github
+      text: GitHub
+      href: https://github.com/michaelfogarty
+---
+
+I am currently a PhD student in economics at the University of Wisconsin-Madison. Previously, I was a research assistant at the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/people/f/fogarty-michael/). I graduated from Washington University in St. Louis with a bachelor's degree in Economics and Political Science in 2019.

@@ -1,0 +1,5 @@
+---
+title: Contact
+---
+
+You can reach me via email at [michael.fogarty@wisc.edu](mailto:michael.fogarty@wisc.edu).

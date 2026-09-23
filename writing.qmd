@@ -1,0 +1,16 @@
+---
+title: Writing
+---
+
+### Washington University Political Review
+
+Throughout my undergraduate career, I wrote extensively for the [Washington University Political Review](http://www.wupr.org/author/michael-fogarty/) in addition to serving as editor-in-chief my senior year. Some of the topics I covered include:
+
+* [Urban sprawl and transportation in St. Louis](http://www.wupr.org/2019/01/30/the-spread-of-the-sprawl/)
+* [2020 candidates' housing policy proposals](http://www.wupr.org/2019/03/10/evaluating-candidates-housing-policy-proposals/)
+* [The economic history of craft brewing in St. Louis](http://www.wupr.org/2019/05/23/st-louis-home-of-the-brews/)
+* [The interaction between political sorting, partisan polarization, and legislative gridlock](http://www.wupr.org/2018/11/15/sorting-polarization-and-gridlock-policy-finds-a-way/)
+
+### Academic Papers
+
+In Spring 2019, I took a [graduate seminar in social choice theory](https://pages.wustl.edu/calvert/ps-507-social-choice-theory). For my final paper, I [compared the social choice-theoretic properties of plurality and ranked choice voting](files/social_choice_theory.pdf).

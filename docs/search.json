@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "Washington University Political Review\nThroughout my undergraduate career, I wrote extensively for the Washington University Political Review in addition to serving as editor-in-chief my senior year. Some of the topics I covered include:\n\nUrban sprawl and transportation in St. Louis\n2020 candidates’ housing policy proposals\nThe economic history of craft brewing in St. Louis\nThe interaction between political sorting, partisan polarization, and legislative gridlock\n\n\n\nAcademic Papers\nIn Spring 2019, I took a graduate seminar in social choice theory. For my final paper, I compared the social choice-theoretic properties of plurality and ranked choice voting."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Fogarty",
+    "section": "",
+    "text": "I am currently a PhD student in economics at the University of Wisconsin-Madison. Previously, I was a research assistant at the Federal Reserve Bank of Chicago. I graduated from Washington University in St. Louis with a bachelor’s degree in Economics and Political Science in 2019."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests include urban economics, public finance, fiscal federalism, political economy and applied microeconomics more broadly.\nI was previously a research assistant on the regional team at the Federal Reserve Bank of Chicago.\nI have worked with Professor Therese McGuire on several projects related to fiscal federalism in the United States, Canada, Germany, and Spain. Additionally, I have prepared homeworks and lectures for her state and local public economics course for Kellogg MBA students.\nMy undergraduate honors thesis examined the possibility of correcting sample selection bias with detailed controls, using a large dataset of wholesale used car auctions. My thesis won the Adam Smith Prize for Excellence in Economics."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n“Benchmarking Big Data with Mixed-Frequency Multivariate Time Series Models.” With Scott A. Brave, R. Andrew Butters, Ezra Karger, and Ross Cole.\n“Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade.” With Scott A. Brave, Daniel Aaronson, Ezra Karger, and Spencer Krane. Federal Reserve Bank of Chicago Working Paper."
+  },
+  {
+    "objectID": "research.html#published-research",
+    "href": "research.html#published-research",
+    "title": "Research",
+    "section": "Published Research",
+    "text": "Published Research\n“Forecasting unemployment insurance claims in realtime with Google Trends.” With Daniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. International Journal of Forecasting.\n“The Perils of Working with Big Data and a SMALL Framework You Can Use to Avoid Them.” With Scott A. Brave and R. Andrew Butters. Business Horizons.\n“Looking Down the Road with ALEX: Forecasting U.S. GDP.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Letter.\n“The Stay-at-Home Labor Market: Google Searches, Unemployment Insurance, and Public Health Orders.” With Daniel Aaronson, Scott A. Brave and R. Andrew Butters. Chicago Fed Letter.\n“A Closer Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Insights.\n“Another Look at the Correlation Between Google Trends and Initial Unemployment Insurance Claims.” With Scott A. Brave and R. Andrew Butters. Chicago Fed Insights.\n“What Can Revisions to the NFCI Tell Us About Stock Market Volatility?” With Scott A. Brave and Ross Cole. Chicago Fed Insights."
+  },
+  {
+    "objectID": "research.html#credited-as-research-assistant",
+    "href": "research.html#credited-as-research-assistant",
+    "title": "Research",
+    "section": "Credited as Research Assistant",
+    "text": "Credited as Research Assistant\nDaniel Aaronson, Scott A. Brave, R. Andrew Butters, Daniel W. Sacks, and Boyoung Seo. “Using the eye of the storm to predict the wave of Covid-19 UI claims.” Covid Economics, 9, pp. 59-76.\nR. Jason Faberman and Daniel Hartley. “The Relationship between Race, Type of Work, and Covid-19 Infection Rates.” Chicago Fed Working Paper, 2020.\nTeresa Garcia-Milà, Therese J. McGuire, and Wallace E. Oates. “Strength in diversity? Fiscal federalism among the fifty US states.” International Tax and Public Finance, 25(4), pp. 1071-1091.\nTeresa Garcia-Milà and Therese J. McGuire. “When Theory Meets Practice: Can We Implement the Optimal Fiscal Federal Structure?” Work in progress."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can reach me via email at michael.fogarty@wisc.edu."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Seasonal Adjustment for Big Data\nadjust_data.R implements the seasonal adjustment procedure for Big Data series with short time series history outlined in Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade.\n\n\nOther Software Tools\nimporthaver. This R package provides a user-friendly interface for accessing time-series data from Haver Analytics in a tidy format. Requires network access to Haver databases."
+  }
+]
