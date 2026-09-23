@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "writing.html",
-    "href": "writing.html",
-    "title": "Writing",
-    "section": "",
-    "text": "Washington University Political Review\nThroughout my undergraduate career, I wrote extensively for the Washington University Political Review in addition to serving as editor-in-chief my senior year. Some of the topics I covered include:\n\nUrban sprawl and transportation in St. Louis\n2020 candidates’ housing policy proposals\nThe economic history of craft brewing in St. Louis\nThe interaction between political sorting, partisan polarization, and legislative gridlock\n\n\n\nAcademic Papers\nIn Spring 2019, I took a graduate seminar in social choice theory. For my final paper, I compared the social choice-theoretic properties of plurality and ranked choice voting."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michael Fogarty",
     "section": "",
-    "text": "I am a PhD candidate in economics at the University of Wisconsin–Madison, and I am on the 2026–2027 academic job market. My research interests are housing economics, urban economics, public economics, and risk and insurance.\nBefore graduate school, I was a research assistant in the Regional Analysis Group at the Federal Reserve Bank of Chicago. I received my B.A. in Economics and Political Science from Washington University in St. Louis in 2019."
+    "text": "I am a PhD candidate in economics at the University of Wisconsin–Madison. I expect to graduate in May 2027, and I am on the 2026–2027 academic job market. My research interests are housing economics, urban economics, public economics, and risk and insurance.\nBefore graduate school, I was a research assistant in the Regional Analysis Group at the Federal Reserve Bank of Chicago. I received my B.A. in Economics and Political Science from Washington University in St. Louis in 2019."
   },
   {
     "objectID": "index.html#job-market-paper",
@@ -103,12 +96,5 @@
     "title": "Contact",
     "section": "",
     "text": "Email: michael.fogarty@wisc.edu\nOffice: 8418A Social Sciences\nDepartment of Economics\nUniversity of Wisconsin–Madison\n1180 Observatory Drive\nMadison, WI 53706\nDepartment profile"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "Seasonal Adjustment for Big Data\nadjust_data.R implements the seasonal adjustment procedure for Big Data series with short time series history outlined in Tracking U.S. Consumers in Real Time with a New Weekly Index of Retail Trade.\n\n\nOther Software Tools\nimporthaver. This R package provides a user-friendly interface for accessing time-series data from Haver Analytics in a tidy format. Requires network access to Haver databases."
   }
 ]

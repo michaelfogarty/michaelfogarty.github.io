@@ -16,10 +16,6 @@ website:
         text: Teaching
       - href: files/Fogarty_CV.pdf
         text: CV
-      - href: writing.qmd
-        text: Writing
-      - href: software.qmd
-        text: Software
     right:
       - icon: envelope
         href: contact.qmd

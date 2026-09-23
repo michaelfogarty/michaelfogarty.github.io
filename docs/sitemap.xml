@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://michaelfogarty.github.io/writing.html</loc>
-    <lastmod>2026-09-23T15:43:17.145Z</lastmod>
-  </url>
-  <url>
     <loc>https://michaelfogarty.github.io/index.html</loc>
-    <lastmod>2026-09-23T16:23:47.298Z</lastmod>
+    <lastmod>2026-09-23T16:47:20.539Z</lastmod>
   </url>
   <url>
     <loc>https://michaelfogarty.github.io/research.html</loc>
@@ -19,9 +15,5 @@
   <url>
     <loc>https://michaelfogarty.github.io/contact.html</loc>
     <lastmod>2026-09-23T16:24:06.140Z</lastmod>
-  </url>
-  <url>
-    <loc>https://michaelfogarty.github.io/software.html</loc>
-    <lastmod>2026-09-23T15:43:17.145Z</lastmod>
   </url>
 </urlset>
