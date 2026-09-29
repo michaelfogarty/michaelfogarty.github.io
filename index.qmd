@@ -2,7 +2,7 @@
 title: Michael Fogarty
 about:
   template: trestles
-  image: images/wisc_headshot.jpeg
+  image: images/headshot.jpg
   links:
     - icon: file-earmark-text
       text: CV
