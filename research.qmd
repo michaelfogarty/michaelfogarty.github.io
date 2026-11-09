@@ -24,7 +24,14 @@ Wildfire risk has become a key force shaping California's housing market. We stu
 
 </details>
 
-"Evaluating the Effects of Place-Based Policy: Evidence from Opportunity Zones and the Low Income Housing Tax Credit."
+"[Evaluating the Effects of Place-Based Policy: Evidence from Opportunity Zones and the Low Income Housing Tax Credit](files/Fogarty_OZ_LIHTC.pdf)."
+
+<details>
+<summary>Abstract</summary>
+
+I study the impact of the Opportunity Zones Tax Credit, a federal place-based investment incentive passed as part of the 2017 tax reform, on the development of Low Income Housing Tax Credit subsidized housing projects using a difference-in-differences design. Across my main specifications, I find no statistically significant effect of tract-level Opportunity Zone designation on either LIHTC projects or the number of assisted units constructed in a tract. Additionally, my estimates suggest that the program did not differentially effect either of the two main sub-categories of LIHTC subsidies. My preferred point estimates are small and negative, and precise enough to rule out effect sizes larger than 0.1σ at the 95% confidence level. LIHTC projects were already disproportionately located in Opportunity Zone Census tracts before the policy intervention due to strong selection of projects by tract poverty levels, and my analysis suggests that the Opportunity Zones program did not shift additional subsidized housing projects into OZ designated tracts.
+
+</details>
 
 "Benchmarking Big Data with Mixed-Frequency Multivariate Time Series Models." With Scott A. Brave, R. Andrew Butters, Ezra Karger, and Ross Cole.
 
